@@ -1,0 +1,9 @@
+1, Entrance, 0, 0, 0, 2
+2, Hall, 0, 3, 0, 0
+3, Sleeping Quarters, 2, 0, 0, 4
+4, Dinner, 0, 6, 3, 5
+5, Kitchen, 0, 0, 4, 0
+6, The Crypts, 4, 7, 0, 0
+7, Mystical Garden, 6, 0, 0, 8
+8, Treasury Room, 0, 0, 7, 9
+9, Throne Room, 0, 0, 8, 0

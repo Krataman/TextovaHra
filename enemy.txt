@@ -1,0 +1,27 @@
+Goblin, 15, 10, 15
+Rat, 5, 7, 10
+Cursed Knight, 25, 10, 15
+The Ghost King, 20, 10, 17
+The Mis-Chef, 15, 5, 15
+The Executioner, 10, 20, 25
+Alkoholik Jirka, 10, 10, 10
+Dark Sorcerer, 20, 10, 15
+Swamp Hag, 18, 12, 18
+Shadow Assassin, 22, 20, 20
+Ice Wraith, 25, 20, 20
+Lava Golem, 30, 15, 20
+Bloodthirsty Vampire, 28, 5, 25
+Plague Doctor, 15, 25, 25
+Thunderous Titan, 35, 10, 30
+Wicked Warlock, 30, 20, 20
+Soul Eater, 25, 15, 30
+Corrupted Necromancer, 28, 15, 30
+Venomous Serpent, 20, 15, 25
+Demented Jester, 15, 10, 20
+Infernal Demon, 35, 15, 35
+Frostbite Yeti, 25, 10, 15
+Arcane Enchanter, 22, 10, 20
+Abyssal Leviathan, 40, 15, 30
+Lurking Shadowbeast, 30, 20, 40
+Spectral Banshee, 18, 10, 20
+Blazing Phoenix, 30, 10, 25

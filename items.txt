@@ -1,0 +1,59 @@
+Coffe Maker, false, RARE, -5
+Pocket Watch, true, RARE, 0
+Golden Necklace, true, RARE, 0
+Kitchen Knife, true, RARE, 12
+Flowberry Pizz, false, RARE, -10
+Steampunk Sword, true, RARE, 20
+Double-Sided Axe, true, RARE, 20
+Blood Crystal, true, RARE, 20
+Crystal Skull, true, RARE, 25
+Starlight Pendant, true, RARE, 18
+Shadow Cloak, true, RARE, 0
+Phoenix Feather, true, RARE, 0
+Enchanted Mirror, false, RARE, 28
+Time Turner, false, RARE, 0
+Celestial Staff, true, RARE, 25
+Elixir of Eternal Youth, true, RARE, 40
+Arcane Orb, true, RARE, 26
+Whispering Dagger, true, RARE, 23
+Dragon Sword, true, LEGENDARY, 30
+Pharaoh`s Touch, true, LEGENDARY, 100
+Grimace Shake, true, LEGENDARY, -15
+Stool, false, LEGENDARY, 50
+Emberstone Gauntlet, true, LEGENDARY, 50
+Vortex Cannon, false, LEGENDARY, 60
+Astral Compass, true, LEGENDARY, 48
+Mjolnir's Blessing, true, LEGENDARY, 65
+Blade of Destiny, true, LEGENDARY, 58
+Hammer Pump Shotgun, true, MYTHIC, 80
+Thor`s Hammer, true, MYTHIC, 35
+Mystic Amulet, true, MYTHIC, 30
+Leviathan Scale Armor, true, MYTHIC, 75
+Pandora's Box, false, MYTHIC, 70
+Atlas Gauntlets, true, MYTHIC, 50
+Tome of Knowledge, true, MYTHIC, 0
+Stone Wand, false, COMMON, 5
+Soda, true, COMMON, -5
+Bottle, true, COMMON, 15
+Stone Sword, true, COMMON, 5
+Fork, true, COMMON, 5
+Fire Ruby, true, COMMON, 8
+Rusty Key, true, COMMON, 0
+Potion of Healing, true, COMMON, 5
+Ancient Scroll, true, COMMON, 7
+Silver Coin, true, COMMON, 3
+Crystal Shard, true, COMMON, 6
+Traveler's Map, true, COMMON, 4
+Iron Band, true, COMMON, 2
+Wooden Staff, true, COMMON, 5
+Goblin Tooth, false, COMMON, 0
+Gold Sword, true, UNCOMMON, 10
+Broad Sword, true, UNCOMMON, 15
+Wooden Spike, true, UNCOMMON, 10
+Dagger, true, UNCOMMON, 10
+Shadow Essence, true, UNCOMMON, 14
+Swift Boots, true, UNCOMMON, 10
+Arcane Dust, true, UNCOMMON, 11
+Moonstone Pendant, true, UNCOMMON, 13
+Hunter's Bow, true, UNCOMMON, 12
+Enchanted Ring, true, UNCOMMON, 15
